@@ -21,6 +21,27 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 ```
+```c
+#include<stdio.h>
+int main(void)
+{
+  prtint("hello world");
+  return 0;
+}
+```
+
+- one
+  - one-one
+  - one-two
+    - one-two-one
+    1. one-two-1
+  3. one-1
+- two
+
+|1|2|3|
+|:1|2|3:|
+|1|:2:3|
+
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
