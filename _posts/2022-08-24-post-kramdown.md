@@ -1,5 +1,5 @@
 ---
-title: "kramdown test"
+title: "post: kramdown test"
 date: 2022-08-24T13:51
 categories:
   - blog
