@@ -1,6 +1,6 @@
 ---
 title: "post: kramdown test"
-date: 2022-08-24T13:51
+date: 2022-08-24
 categories:
   - blog
 tags:
